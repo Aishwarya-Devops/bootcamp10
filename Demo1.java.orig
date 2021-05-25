@@ -1,0 +1,15 @@
+
+class Demo1 {
+    public static void main(String[] args) {
+<<<<<<< HEAD
+        System.out.println("This is Demo1_Branch1"); 
+        System.out.println("This is Demo1_Branch2"); 
+        System.out.println("This is Demo1 with feature1"); 
+
+=======
+       //Added by DeveloperB
+        System.out.println("This is Demo1");
+        System.out.println("This is Demo1 with feature1"); 
+>>>>>>> 4b2d2718a7781a97de68d9b283a9913eb7b498ad
+    }
+}
