@@ -1,7 +1,10 @@
 
 class Demo1 {
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("This is Demo1_Branch1"); 
+=======
         System.out.println("This is Demo1_Branch2"); 
+>>>>>>> branch2
     }
 }
